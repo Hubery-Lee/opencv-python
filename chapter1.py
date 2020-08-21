@@ -31,7 +31,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3,wide)
 cap.set(4,high)
 while True:
-    sucess, img = cap.read()
+    success, img = cap.read()
     #img = cv2.resize(img,(wide,high))
     cv2.imshow("Video",img)
 
