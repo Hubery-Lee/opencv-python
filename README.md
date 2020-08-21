@@ -18,4 +18,5 @@
 - chapter 14 [目标追踪](chapter14.py)
 - chapter 15 [人脸疲劳检测](chapter15.py)
 - chapter 16 [dnn 神经网络识别](chapter16.py)
-- chapter 17 [光流估计和背景建模](chapter17.py)
+- chapter 17 [光流估计](chapter17.py)
+- chapter 18 [背景建模](chapter18.py)
